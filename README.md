@@ -10,7 +10,7 @@
 
 
 # 使用方法:
-## 產生預測檔案 
+## 模型預測
 
 ```
 bash ./download.sh  
@@ -18,7 +18,7 @@ bash ./extractive.sh TEST_PATH PREDICT_PATH
 bash ./seq2seq.sh TEST_PATH PREDICT_PATH  
 bash ./attention.sh TEST_PATH PREDICT_PATH  
 ```
-## 產生訓練模型 
+## 訓練模型
 
 ## Extractive Summarization
 ```
